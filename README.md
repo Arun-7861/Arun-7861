@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python Libraries(NumPy, Pandas and Matplotlib),R and Statistics along with Machine Learning**
 
-- 💬 Ask me about **Advanced Excel, Power BI, MYSQL and Python**
+- 💬 Ask me about **Advanced Excel, Power BI, MYSQL, SQL Sever and Python**
 
 - 📫 How to reach me **arun.raj7861@gmail.com**
 
